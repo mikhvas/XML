@@ -1,1 +1,10 @@
-
+<xml>
+  <ID>"1213131"</ID>
+  <Project>"Course VadimKsendzov"</Project>
+  <Version>"v.1.1.1.2"</Version>
+  <Severity>"S4"</Severity>
+  <Proirity>"P3"</Proirity>
+  <Author>"V.Shevtsov"</Author>
+  <Steps>"1step_2step_3step"</Steps>
+  <Actual result>"1945-2022"</Actual result>
+  <Expected result>"1941-1945"</Expected result>
